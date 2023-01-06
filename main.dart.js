@@ -83741,10 +83741,10 @@ s=A.cP(m,l,m)
 r=i?B.ap:B.O
 q=k*0.01
 p=t.p
-r=A.aAL(A.a([A.aB2("assets/airplane.png",m,h),A.cP(m,q,m),A.cP(A.me(m,m,B.aG,m,m,!0,m,B.QS,B.am,m,m,1,B.ah),m,h)],p),B.y,r,m,B.e_,B.v,m,m,B.bJ)
+r=A.aAL(A.a([A.aB2("assets/airplane.webp",m,h),A.cP(m,q,m),A.cP(A.me(m,m,B.aG,m,m,!0,m,B.QS,B.am,m,m,1,B.ah),m,h)],p),B.y,r,m,B.e_,B.v,m,m,B.bJ)
 o=A.cP(m,k*0.05,m)
 n=i?B.ap:B.O
-return A.cu(A.a([s,r,o,A.aAL(A.a([A.aB2("assets/friends.png",m,h),A.cP(m,q,m),A.cP(A.me(m,m,B.aG,m,m,!0,m,B.QW,B.am,m,m,1,B.ah),m,h)],p),B.y,n,m,B.e_,B.v,m,m,B.bJ),A.cP(m,l,m),A.aT(B.a3,B.UE,B.i,B.a4,m,m,m,40,m,m,m,m,m,j)],p),B.y,B.u,B.v)}}
+return A.cu(A.a([s,r,o,A.aAL(A.a([A.aB2("assets/friends.webp",m,h),A.cP(m,q,m),A.cP(A.me(m,m,B.aG,m,m,!0,m,B.QW,B.am,m,m,1,B.ah),m,h)],p),B.y,n,m,B.e_,B.v,m,m,B.bJ),A.cP(m,l,m),A.aT(B.a3,B.UE,B.i,B.a4,m,m,m,40,m,m,m,m,m,j)],p),B.y,B.u,B.v)}}
 A.DU.prototype={
 a7(){var s=$.aA()
 return new A.QJ(new A.bw(null,t.am),new A.fv(B.b5,s),new A.fv(B.b5,s),B.j)}}
@@ -83939,7 +83939,7 @@ o.sca(0,B.as)
 o.shQ(10)
 o.sai(0,B.l)
 s=t.p
-s=A.re(A.a([A.aT(B.zp,A.cu(A.a([A.avg(r,r,!0,B.a4,r,r,1,r,r,r,!1,r,r,r,r,r,!0,r,r,r,r,r,r,A.me(r,r,B.aG,r,r,!0,r,A.dH(A.a([n,A.dH(r,A.iL(r,r,r,r,r,r,r,r,q,r,r,10,r,r,r,o,r,!0,r,1,r,r,r,r,r,r)," ALPHA")],t.Ne),r,r),B.a0,r,r,1,B.ah),r,r,r,1,r),B.Ow],s),B.y,B.u,B.v),B.i,r,r,B.Al,r,p.a.b,r,r,r,r,r,r),B.Hw],s),!0,!0,!0)
+s=A.re(A.a([A.aT(B.zp,A.cu(A.a([A.avg(r,r,!0,B.a4,r,r,1,r,r,r,!1,r,r,r,r,r,!0,r,r,r,r,r,r,A.me(r,r,B.aG,r,r,!0,r,A.dH(A.a([n,A.dH(r,A.iL(r,r,r,r,r,r,r,r,q,r,r,10,r,r,r,o,r,!0,r,1,r,r,r,r,r,r)," ALPHA")],t.Ne),r,r),B.a0,r,r,1,B.ah),r,r,r,1,r),B.Ow],s),B.y,B.u,B.v),B.i,r,r,B.Am,r,p.a.b,r,r,r,r,r,r),B.Hw],s),!0,!0,!0)
 p=!0
 p=p?B.dt:r
 return A.awG(r,r,new A.BB(s,B.P,B.O,!1,r,r,p,r,!1,r,0,r,2,B.Y,B.cz,r,B.F,r),r,r,r,!1)}}
@@ -84044,7 +84044,7 @@ r=l.gb_(l)
 if(r.gp(r)>1){r=l.gb_(l)
 r=A.cb(A.a1(r,!0,A.k(r).i("q.E"))[1],o,o,o,o,o,o)}else r=B.yZ
 r=A.cu(A.a([s,new A.eS(B.cG,o,o,r,o)],j),B.y,B.u,B.v)
-s=A.aT(o,B.UF,B.i,o,o,B.Am,o,o,o,o,o,o,o,o)
+s=A.aT(o,B.UF,B.i,o,o,B.Al,o,o,o,o,o,o,o,o)
 q=A.fj(A.aT(o,o,B.i,o,o,o,o,o,o,o,o,o,o,o),1)
 p=l.gb_(l)
 if(p.gp(p)>2){l=l.gb_(l)
@@ -88403,13 +88403,6 @@ B.c6=new A.aD(0,1/0,0,1/0)
 B.nm=new A.aD(280,1/0,0,1/0)
 B.nl=new A.aD(48,1/0,48,1/0)
 B.nn=new A.aD(0,1/0,52,1/0)
-B.zL=new A.pi("assets/home_page_background.jpg",null,null)
-B.Ao=new A.pq(2,"cover")
-B.ci=new A.qb(3,"noRepeat")
-B.eP=new A.pR(1,"low")
-B.G5=new A.zK(B.zL,B.Ao,B.cG)
-B.aD=new A.z2(0,"rectangle")
-B.Al=new A.cS(null,B.G5,null,null,null,null,B.aD)
 B.FF=new A.n(4294965473)
 B.FA=new A.n(4294962355)
 B.Fu=new A.n(4294959234)
@@ -88422,7 +88415,14 @@ B.Fg=new A.n(4294938368)
 B.Fd=new A.n(4294930176)
 B.ML=new A.bL([50,B.FF,100,B.FA,200,B.Fu,300,B.Fq,400,B.Fo,500,B.Fn,600,B.Fk,700,B.Fh,800,B.Fg,900,B.Fd],t.pl)
 B.ft=new A.qq(B.ML,4294951175)
-B.Am=new A.cS(B.ft,null,null,null,null,null,B.aD)
+B.aD=new A.z2(0,"rectangle")
+B.Al=new A.cS(B.ft,null,null,null,null,null,B.aD)
+B.zL=new A.pi("assets/home_page_background.webp",null,null)
+B.Ao=new A.pq(2,"cover")
+B.ci=new A.qb(3,"noRepeat")
+B.eP=new A.pR(1,"low")
+B.G5=new A.zK(B.zL,B.Ao,B.cG)
+B.Am=new A.cS(null,B.G5,null,null,null,null,B.aD)
 B.An=new A.pq(1,"contain")
 B.Ap=new A.pq(3,"fitWidth")
 B.no=new A.pq(6,"scaleDown")
