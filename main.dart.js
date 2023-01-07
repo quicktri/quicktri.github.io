@@ -25130,11 +25130,13 @@ this.b=b},
 aix:function aix(a){this.a=a},
 aiy:function aiy(a){this.a=a},
 auv:function auv(){},
-asV(a,b){var s=0,r=A.W(t.z),q
+asV(a,b){var s=0,r=A.W(t.z),q,p,o
 var $async$asV=A.X(function(c,d){if(c===1)return A.T(d,r)
 while(true)switch(s){case 0:q=a.K(t.w).f.a
+p=q.a
+o=p>=1080?"mailto: Check my cool trip! "+b:"Check my cool trip! "+b
 s=2
-return A.R($.aHc().nI(0,"Check my cool trip! "+b,new A.v(0,0,0+q.a,0+q.b/2),null),$async$asV)
+return A.R($.aHc().nI(0,o,new A.v(0,0,0+p,0+q.b/2),null),$async$asV)
 case 2:return A.U(null,r)}})
 return A.V($async$asV,r)},
 aAZ(a,b,c,d,e,f,g,h){return new A.AN(c,g,a,d,e,b,h,f,null)},
@@ -84330,7 +84332,7 @@ o=A.eH(g).df(0,i.a.r)
 n=i.r
 m=i.e
 l=m.a.a
-k="https://www.huakatravel.com/#/suggestions?"+i.w.gjy().cr("origin="+r+"&iata="+s+"&number="+q+"&startDate="+p+"&endDate="+o+"&id="+A.e(n)+"&lastDayToVote="+l)
+k="https://huakatravel.com/#/suggestions?"+i.w.gjy().cr("origin="+r+"&iata="+s+"&number="+q+"&startDate="+p+"&endDate="+o+"&id="+A.e(n)+"&lastDayToVote="+l)
 l=i.d
 l.se1(0,k)
 l.snG(A.cg(B.k,0,l.a.a.length,!1))
