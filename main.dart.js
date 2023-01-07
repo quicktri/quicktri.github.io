@@ -84822,7 +84822,8 @@ a.K(m).toString
 $.J.cx$.push(new A.aeZ(!1,a))
 m=A.aDT(a.K(t.t7).f.d)
 n=n.a===0
-r=n?B.UV:new A.ca(B.GO,A.cQ(new A.PM(l,o),s*0.65,s*0.8),o)
+if(n)r=B.UV
+else r=s<1080?new A.ca(B.GO,A.cQ(new A.PM(l,o),s*0.65,s*0.8),o):A.aT(o,o,B.j,o,o,o,o,o,o,o,o,o,o,o)
 if(n)n=A.aT(o,o,B.j,o,o,o,o,o,o,o,o,o,o,o)
 else{n=A.a([],t.t)
 for(q=0;q<l.gp(l);++q)n.push(q)
